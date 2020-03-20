@@ -11,8 +11,7 @@ h2, h3 {
   font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
-p {
-
+p, li {
   font-family: Esteban, Georgia, 'Times New Roman', serif;
   font-size: 16px;
   font-style: normal;
@@ -21,7 +20,6 @@ p {
   line-height: 20px;
   text-transform: none;
   color: #2A292B;
-    
 }
 
 
@@ -79,4 +77,8 @@ p {
 
   .panel-info > .panel-heading-custom {
     background-color: rgb(245, 222, 179, 0.5);
+  }
+
+  .highlight {
+    color:  #88382D ;
   }
