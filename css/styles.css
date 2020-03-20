@@ -2,18 +2,21 @@ img {
   width: 25%;
 }
 
+h2 {
+  margin-bottom: 30px;
+}
 
 
 #circle-shape p { 
   line-height: 1.8;
-  margin-top: 40px;
+  margin-top: 30px;
   
 }
 #circle-shape .curve { 
   width: 20%; height: auto;
   min-width: 150px;
   float: left;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-right:2rem; 
   border-radius: 50%;
   -webkit-shape-outside:circle();
