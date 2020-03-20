@@ -5,8 +5,10 @@ img {
   width: 30%;
 }
 
-h2 {
+h2, h3 {
   margin-bottom: 30px;
+  color: black;
+  font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
 p {
@@ -72,9 +74,9 @@ p {
   }
 
   .jumbotron, .sidebar {
-    background-color: wheat;
+    background-color: rgb(245, 222, 179, 0.5);
   }
 
   .panel-info > .panel-heading-custom {
-    background-color: wheat;
+    background-color: rgb(245, 222, 179, 0.5);
   }
