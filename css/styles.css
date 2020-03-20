@@ -10,6 +10,7 @@ h2 {
 #circle-shape p { 
   line-height: 1.8;
   margin-top: 30px;
+  width: 70%;
   
 }
 #circle-shape .curve { 
@@ -24,3 +25,10 @@ h2 {
   
 }
 
+.sidebar {
+  width: 25%;
+  float: right;
+  border: 2px solid black;
+  margin-top: -32%;
+  padding: 10px;
+}
