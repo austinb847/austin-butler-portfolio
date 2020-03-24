@@ -1,3 +1,8 @@
+.light-on-dark {
+  background-color: #507661;
+  color: yellow;
+}
+
 img {
   width: 30%;
 }
@@ -79,3 +84,5 @@ p, li {
   .highlight {
     color:  #88382D ;
   }
+
+  
